@@ -18,13 +18,13 @@ Core Java and SQL
 * Exceptions
 * SQL
 
-## Assessment 3 - JSON
+## Assessment 3: JSON - 11/26/18
 
 JSON & Collections
 * JSON data manipulation 
 * Java Collections
 
-## Quizzes
+## Quizzes - Weeks 8 -> 12
 
 Quizzes aimed to test skill level with core Java 8.
 
